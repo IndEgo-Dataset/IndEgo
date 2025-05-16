@@ -20,12 +20,12 @@ The dataset is available here:
 ---
 
 ## 📦 Dataset Structure
-Each task includes:
+Each Category includes:
 - Egocentric + Exocentric videos
-- Gaze & motion CSV logs
+- Gaze, motion, hand-pose logs
 - Narrations (where applicable)
-- Task steps and mistakes (if any)
-- 3D room layout metadata (for some sequences)
+- Keysteps and mistakes (if any)
+- SLAM data (missing for some sequences)
 
 ---
 
