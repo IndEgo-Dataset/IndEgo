@@ -40,8 +40,9 @@ source $HOME/indego_env/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
+---
 
-## 🤝 Acknowledgements
+## Acknowledgements
 
 This repository builds upon and integrates components from several open-source projects and pretrained models. We gratefully acknowledge the contributions of the following repositories and their authors:
 
