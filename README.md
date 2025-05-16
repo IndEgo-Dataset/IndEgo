@@ -40,7 +40,11 @@ source $HOME/indego_env/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
----
+
+
+-------
+
+
 
 ## Acknowledgements
 
