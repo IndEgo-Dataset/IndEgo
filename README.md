@@ -40,6 +40,8 @@ source $HOME/indego_env/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
+---
+
 ## Reasoning-based Video-Question-Answering (VQA) Benchmark
 
 | Supported VLMs (pre-configured) | Quick start |
