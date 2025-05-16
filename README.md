@@ -39,3 +39,17 @@ source $HOME/indego_env/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+
+## 🤝 Acknowledgements
+
+This repository builds upon and integrates components from several open-source projects and pretrained models. We gratefully acknowledge the contributions of the following repositories and their authors:
+
+- [facebookresearch/projectaria_tools](https://github.com/facebookresearch/projectaria_tools) – for egocentric device support and video/sensor tooling  
+- [DAMO-NLP-SG/VideoLLaMA3](https://github.com/DAMO-NLP-SG/VideoLLaMA3) – for video-language reasoning and summarization  
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) – for vision-language prompting with Qwen2.5-VL  
+- [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) – for advanced multimodal video understanding  
+
+This project also leverages the open-source AI ecosystem, including [🤗 Hugging Face Transformers](https://github.com/huggingface/transformers), [FlashAttention](https://github.com/Dao-AILab/flash-attention), [Decord](https://github.com/dmlc/decord), and other publicly released models and frameworks.
+
+We thank these communities for making research reproducible and accessible.
