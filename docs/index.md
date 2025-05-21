@@ -56,8 +56,7 @@ IndEgo runs on an adaptable framework that leverages:
 
 ## Demo Video
 
-▶️ [Watch the IndEgo Demo](https://drive.google.com/file/d/1x1TnZJpUdE2BDMW9H-jo3QZmdm-aGrZb/view?usp=sharing)  
-_A 2-minute overview of the technology involved._
+<iframe width="100%" height="400" src="https://youtu.be/ric5f6jH7AI?autoplay=1&loop=1&mute=1&playlist=VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 
 ---
 
