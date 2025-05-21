@@ -1,8 +1,9 @@
 # IndEgo: Industrial Egocentric Assistant
 
-## Industrial Automation and Robotics | Augmenting Human Skills with AI!
+## Automation and Robotics | Augmenting Human Skills with AI!
 
-Welcome to the IndEgo project — an open-source framework for building AI-powered assistants that learn from skilled workers in industrial environments.  
+Welcome to the IndEgo — an open-source framework for building AI-powered assistants that learn from skilled workers in industrial environments. 
+
 👉 [GitHub Repo](https://github.com/Vivek9Chavan/IndEgo)
 
 🤗 [Hugging Face: IndEgo_Demo](https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo)
