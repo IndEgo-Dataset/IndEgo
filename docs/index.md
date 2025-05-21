@@ -149,25 +149,24 @@ One performs it correctly — the other makes a mistake.
 
 ### 🎥 Watch the Comparison:
 
-<table>
-<tr>
-  <th>✅ Correct Execution</th>
-  <th>⚠️ Mistake Case</th>
-</tr>
-<tr>
-  <td align="center">
-    <a href="https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo/resolve/main/Mistake_Detection/Task_10/mp4_480/User_1_H_10c_3_480.mp4" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/100/000000/play-button-circled--v1.png" width="60"/><br/>
-      <strong>Watch Correct Execution</strong>
-    </a>
-  </td>
-  <td align="center">
-    <a href="https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo/resolve/main/Mistake_Detection/Task_10/mp4_480/User_16_0611_10m_3_480.mp4" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/100/000000/play-button-circled--v1.png" width="60"/><br/>
-      <strong>Watch Mistake Execution</strong>
-    </a>
-  </td>
-</tr>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <th style="text-align: center;">👁️ User 1 View</th>
+    <th style="text-align: center;">👁️ User 15 View</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <iframe width="100%" height="300" 
+        src="https://www.youtube.com/embed/UWijZXr5TzE?autoplay=1&loop=1&mute=1&playlist=UWijZXr5TzE" 
+        title="User 1 View" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </td>
+    <td style="text-align: center;">
+      <iframe width="100%" height="300" 
+        src="https://www.youtube.com/embed/9AQSNnXeqYw?autoplay=1&loop=1&mute=1&playlist=9AQSNnXeqYw" 
+        title="User 15 View" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </td>
+  </tr>
 </table>
 
 **🤔 Can you identify which step was skipped or done incorrectly in the second video?**  
