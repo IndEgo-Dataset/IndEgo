@@ -1,5 +1,9 @@
 # IndEgo: Industrial Egocentric Assistant
 
+## Industrial Automation and Robotics | Augmenting Human Skills with AI!
+
+[image](https://github.com/user-attachments/assets/07780fe2-c250-475b-94c9-d8ae3245eec3)
+
 Welcome to the IndEgo project — an open-source framework for building AI-powered assistants that learn from skilled workers in industrial environments.  
 👉 [GitHub Repo](https://github.com/Vivek9Chavan/IndEgo)
 
@@ -43,6 +47,31 @@ IndEgo runs on an adaptable framework that leverages:
 
 ---
 
+## Demo
+
+> 🎥 Below is a demo of IndEgo in action (auto-play + loop):
+
+<video width="100%" autoplay loop muted playsinline>
+  <source src="https://drive.google.com/uc?export=preview&id=1x1TnZJpUdE2BDMW9H-jo3QZmdm-aGrZb" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Try It – No Setup Required!
+
+👉 [Launch Colab Notebook](https://colab.research.google.com/drive/1mC-W5czouMFgICMktrffOU7sSjMBXENO?usp=sharing)  
+Run IndEgo's core logic directly in your browser using Google Colab — no install or setup needed.
+
+---
+
+## Dataset
+
+🔗 [Open-source Dataset on Hugging Face](https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo)  
+The IndEgo demo dataset includes annotated egocentric videos from real-world industrial tasks, ready for VLM, task graph, and mistake detection research.
+
+---
+
 ## Get Involved
 
 We are currently looking for:
@@ -54,13 +83,6 @@ We are currently looking for:
 
 ---
 
-## Media & Demos
-
-> 🎥 Coming soon: demo video, smart glasses walkthrough, and guided use case simulations.
-
----
-
 ## License
 
 MIT License – see the [GitHub repo](https://github.com/Vivek9Chavan/IndEgo) for details.
-
