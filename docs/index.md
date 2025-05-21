@@ -2,6 +2,49 @@
 
 ## AI Assistant for Industrial Automation and Robotics | Augmenting Human Skills with AI
 
+<h3>🎥 Industrial Scenarios</h3>
+<p style="text-align:center;">Explore different task domains supported by IndEgo</p>
+
+<div style="display:flex; justify-content:space-between; gap:10px; flex-wrap:wrap;">
+
+  <div style="flex: 1; min-width: 220px; text-align: center;">
+    <strong>Assembly/Disassembly</strong><br>
+    <iframe width="100%" height="200" 
+      src="https://www.youtube.com/embed/xvs_uFhwrvs?autoplay=1&mute=1&loop=1&playlist=xvs_uFhwrvs" 
+      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+
+  <div style="flex: 1; min-width: 220px; text-align: center;">
+    <strong>Inspection/Repair</strong><br>
+    <iframe width="100%" height="200" 
+      src="https://www.youtube.com/embed/yVn7pm8EPig?autoplay=1&mute=1&loop=1&playlist=yVn7pm8EPig" 
+      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+
+  <div style="flex: 1; min-width: 220px; text-align: center;">
+    <strong>Logistics</strong><br>
+    <iframe width="100%" height="200" 
+      src="https://www.youtube.com/embed/Euxye9HInk4?autoplay=1&mute=1&loop=1&playlist=Euxye9HInk4" 
+      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+
+  <div style="flex: 1; min-width: 220px; text-align: center;">
+    <strong>Woodworking</strong><br>
+    <iframe width="100%" height="200" 
+      src="https://www.youtube.com/embed/UVzIk0A3OQ4?autoplay=1&mute=1&loop=1&playlist=UVzIk0A3OQ4" 
+      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+
+  <div style="flex: 1; min-width: 220px; text-align: center;">
+    <strong>Miscellaneous</strong><br>
+    <iframe width="100%" height="200" 
+      src="https://www.youtube.com/embed/ric5f6jH7AI?autoplay=1&mute=1&loop=1&playlist=ric5f6jH7AI" 
+      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+
+</div>
+
+
 **💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)**
 
 Welcome to the IndEgo, a privacy-preserving, open-source framework that learns from experts to support training, real-time guidance, process improvement, and collaboration.
