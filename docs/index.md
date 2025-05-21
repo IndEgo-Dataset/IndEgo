@@ -5,6 +5,10 @@
 Welcome to the IndEgo project — an open-source framework for building AI-powered assistants that learn from skilled workers in industrial environments.  
 👉 [GitHub Repo](https://github.com/Vivek9Chavan/IndEgo)
 
+🤗 [Hugging Face: IndEgo_Demo](https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo)
+
+🤝 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qCZnFQNRjBuy3vBlkMy7sMTcYkTNOzgg?usp=sharing)
+
 <p align="left">
   <img src="https://github.com/user-attachments/assets/fcf2e236-768a-4348-9762-28f4fa62d405" alt="IndEgo Logo" width="500"/>
 </p>
