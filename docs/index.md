@@ -172,6 +172,21 @@ One performs it correctly — the other makes a mistake.
 **🤔 Can you identify which step was skipped or done incorrectly in the second video?**  
 This challenge illustrates how IndEgo can be used to analyze procedural tasks and detect deviations automatically using egocentric AI.
 
+**Results**
+
+### 🔍 Step-by-Step Mistake Detection Results
+
+| Step                      | ✅ Correct | ⚠️ Mistake | 📝 Mistake Description      |
+|---------------------------|-----------|------------|------------------------------|
+| Open hatch                | ✅         | ✅          | –                            |
+| Put on gloves             | ✅         | ✅          | –                            |
+| Load trolley securely     | ✅         | ✅          | –                            |
+| Close hatch               | ✅         | ❌          | Only closed one side         |
+| Check if loaded securely  | ✅         | ✅          | –                            |
+
+> ⚠️ Such mistakes may seem minor, but in industrial settings they can lead to inefficiencies, safety issues, or process failures.  
+> They are often subtle and context-dependent—making them hard to detect without egocentric perspective and modern deep learning methods.
+
 ---
 
 ## License
