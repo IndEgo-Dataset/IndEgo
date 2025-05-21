@@ -2,7 +2,9 @@
 
 ## Automation and Robotics | Augmenting Human Skills with AI!
 
-Welcome to the IndEgo — an open-source framework for building AI-powered assistants that learn from skilled workers in industrial environments. 
+💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)
+
+Welcome to the IndEgo, a privacy-preserving, open-source framework that learns from experts to support training, real-time guidance, process improvement, and collaboration.
 
 👉 [GitHub Repo](https://github.com/Vivek9Chavan/IndEgo)
 
@@ -26,7 +28,7 @@ IndEgo supports use cases such as:
 - Knowledge transfer from experts to new operators  
 - AI-augmented collaboration between workers and machines  
 
-Built as a privacy-first, open-source project, IndEgo gives organizations full control over data, deployment, and customization.
+Built as a privacy-first, open-source project, IndEgo gives organisations full control over data, deployment, and customisation.
 
 ---
 
@@ -80,7 +82,9 @@ We are currently looking for:
  - 🎓**Research Institutes** for forming a Consortium.
  - 💼**Investors** to discuss the commercialisationn potential.
 
-💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](url)
+---
+
+💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)
 
 ---
 
