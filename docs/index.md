@@ -75,6 +75,47 @@ We are currently looking for:
 
 💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](url)
 
+---
+
+## 🧪 Mistake Detection Challenge: Can You Spot the Error?
+
+In this example, two workers perform the same task: **Loading a trolley into a hatch**.  
+One performs it correctly — the other makes a mistake.
+
+### ✅ Expected Steps:
+1. Open hatch  
+2. Put on gloves  
+3. Load trolley securely  
+4. Close hatch  
+5. Check if loaded securely
+
+---
+
+### 🎥 Watch the Comparison:
+
+<table>
+<tr>
+  <th style="text-align:center">✅ Correct Execution</th>
+  <th style="text-align:center">⚠️ Mistake Case</th>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo/resolve/main/Mistake_Detection/Task_10/mp4_480/User_1_H_10c_3_480.mp4" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/000000/play-button-circled--v1.png" width="60"/><br/>
+    Watch Correct Execution
+  </a>
+</td>
+<td align="center">
+  <a href="https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo/resolve/main/Mistake_Detection/Task_10/mp4_480/User_16_0611_10m_3_480.mp4" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/100/000000/play-button-circled--v1.png" width="60"/><br/>
+    Watch Mistake Execution
+  </a>
+</td>
+</tr>
+</table>
+
+**🤔 Can you identify which step was skipped or done incorrectly in the second video?**  
+This challenge illustrates how IndEgo can be used to analyze procedural tasks and detect deviations automatically using egocentric AI.
 
 ---
 
