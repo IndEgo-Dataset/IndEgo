@@ -2,6 +2,10 @@
 
 ## AI Assistant for Industrial Automation and Robotics | Augmenting Human Skills with AI
 
+**💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)**
+
+---
+
 <h3>🎥 Industrial Scenarios</h3>
 <p style="text-align:center;">Explore different task domains supported by IndEgo</p>
 
@@ -44,8 +48,7 @@
 
 </div>
 
-
-**💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)**
+---
 
 Welcome to the IndEgo, a privacy-preserving, open-source framework that learns from experts to support training, real-time guidance, process improvement, and collaboration.
 
