@@ -1,6 +1,6 @@
 # IndEgo
 
-## AI Assistant for Industrial Automation and Robotics | Augmenting Human Skills with AI
+## AI Assistant for Industrial Automation and Robotics | Augmenting Human Skills with AI
 
 **💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)**
 
