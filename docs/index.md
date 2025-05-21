@@ -84,4 +84,4 @@ We are currently looking for:
 
 ## License
 
-MIT License – see the [GitHub repo](https://github.com/Vivek9Chavan/IndEgo) for details.
+Apache 2.0 License – see the [GitHub repo](https://github.com/Vivek9Chavan/IndEgo) for details.
