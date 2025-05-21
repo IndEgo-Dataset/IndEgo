@@ -7,46 +7,46 @@
 ---
 
 <h3>🎥 Industrial Scenarios</h3>
-<p style="text-align:center;">Explore different task domains supported by IndEgo</p>
 
-<div style="display:flex; justify-content:space-between; gap:10px; flex-wrap:wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
 
   <div style="flex: 1; min-width: 220px; text-align: center;">
-    <strong>Assembly/Disassembly</strong><br>
+    <strong>Assembly/Disassembly</strong><br/>
     <iframe width="100%" height="200" 
       src="https://www.youtube.com/embed/xvs_uFhwrvs?autoplay=1&mute=1&loop=1&playlist=xvs_uFhwrvs" 
-      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      title="Assembly Disassembly" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
   <div style="flex: 1; min-width: 220px; text-align: center;">
-    <strong>Inspection/Repair</strong><br>
+    <strong>Inspection/Repair</strong><br/>
     <iframe width="100%" height="200" 
       src="https://www.youtube.com/embed/yVn7pm8EPig?autoplay=1&mute=1&loop=1&playlist=yVn7pm8EPig" 
-      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      title="Inspection Repair" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
   <div style="flex: 1; min-width: 220px; text-align: center;">
-    <strong>Logistics</strong><br>
+    <strong>Logistics</strong><br/>
     <iframe width="100%" height="200" 
       src="https://www.youtube.com/embed/Euxye9HInk4?autoplay=1&mute=1&loop=1&playlist=Euxye9HInk4" 
-      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      title="Logistics" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
   <div style="flex: 1; min-width: 220px; text-align: center;">
-    <strong>Woodworking</strong><br>
+    <strong>Woodworking</strong><br/>
     <iframe width="100%" height="200" 
       src="https://www.youtube.com/embed/UVzIk0A3OQ4?autoplay=1&mute=1&loop=1&playlist=UVzIk0A3OQ4" 
-      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      title="Woodworking" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
   <div style="flex: 1; min-width: 220px; text-align: center;">
-    <strong>Miscellaneous</strong><br>
+    <strong>Miscellaneous</strong><br/>
     <iframe width="100%" height="200" 
-      src="https://youtube.com/shorts/JPehcSF_tGc?autoplay=1&mute=1&loop=1&playlist=ric5f6jH7AI" 
-      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      src="https://www.youtube.com/embed/JPehcSF_tGc?autoplay=1&mute=1&loop=1&playlist=JPehcSF_tGc" 
+      title="Miscellaneous" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
 </div>
+
 
 ---
 
