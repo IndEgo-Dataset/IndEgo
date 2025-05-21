@@ -77,7 +77,7 @@ We are currently looking for:
  - 🎓**Research Institutes** for forming a Consortium.
  - 💼**Investors** to discuss the commercialisationn potential.
 
-💬 Interested? Reach out at: [mailto:vivek.chavan@ipk.fraunhofer.de](url)
+💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](url)
 
 
 ---
