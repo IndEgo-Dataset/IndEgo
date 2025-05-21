@@ -73,13 +73,12 @@ The IndEgo demo dataset includes annotated egocentric videos from real-world ind
 ## Get Involved
 
 We are currently looking for:
- ⚙️**Industry partners** for pilot studies and collaboration.
- 🎓**Research Institutes** for forming a Consortium.
- 💼**Investors** to discuss the commercialisationn potential.
-![image](https://github.com/user-attachments/assets/35a8ed07-f0a6-4580-9db2-c5ed93de5f9a)
+ - ⚙️**Industry partners** for pilot studies and collaboration.
+ - 🎓**Research Institutes** for forming a Consortium.
+ - 💼**Investors** to discuss the commercialisationn potential.
 
+💬 Interested? Reach out at: [mailto:vivek.chavan@ipk.fraunhofer.de](url)
 
-💬 Interested? Reach out or visit us at our [GITEX Europe showcase – Hall 4.2](https://www.gitex-europe.com/)
 
 ---
 
