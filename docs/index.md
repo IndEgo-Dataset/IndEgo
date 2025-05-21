@@ -2,8 +2,6 @@
 
 ## Industrial Automation and Robotics | Augmenting Human Skills with AI!
 
-[image](https://github.com/user-attachments/assets/07780fe2-c250-475b-94c9-d8ae3245eec3)
-
 Welcome to the IndEgo project — an open-source framework for building AI-powered assistants that learn from skilled workers in industrial environments.  
 👉 [GitHub Repo](https://github.com/Vivek9Chavan/IndEgo)
 
