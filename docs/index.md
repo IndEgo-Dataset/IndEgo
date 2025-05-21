@@ -38,7 +38,7 @@
   <div style="flex: 1; min-width: 220px; text-align: center;">
     <strong>Miscellaneous</strong><br>
     <iframe width="100%" height="200" 
-      src="https://www.youtube.com/embed/ric5f6jH7AI?autoplay=1&mute=1&loop=1&playlist=ric5f6jH7AI" 
+      src="https://youtube.com/shorts/JPehcSF_tGc?autoplay=1&mute=1&loop=1&playlist=ric5f6jH7AI" 
       frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
