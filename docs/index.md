@@ -153,7 +153,7 @@ One performs it correctly — the other makes a mistake.
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <th style="text-align: center;">👁️ Case 1 </th>
-    <th style="text-align: center;">👁️ Case 2 View</th>
+    <th style="text-align: center;">👁️ Case 2 </th>
   </tr>
   <tr>
     <td style="text-align: center;">
