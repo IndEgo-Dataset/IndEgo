@@ -31,7 +31,9 @@ IndEgo runs on an adaptable framework that leverages:
 - **Egocentric computer vision** for task context understanding  
 - **Vision-language models (VLMs)** for multi-modal reasoning and interaction  
 - **Robotics-aware logic** to align human guidance with automated systems  
-- **Smart glasses or mobile devices** for real-time, on-site use  
+- **Smart glasses or mobile devices** for real-time, on-site use
+
+  ![tech_concept](https://github.com/user-attachments/assets/df3018c2-bae9-4924-85cf-05be217eff28)
 
 ---
 
