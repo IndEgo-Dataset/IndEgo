@@ -101,22 +101,22 @@ One performs it correctly — the other makes a mistake.
 
 <table>
 <tr>
-  <th style="text-align:center">✅ Correct Execution</th>
-  <th style="text-align:center">⚠️ Mistake Case</th>
+  <th>✅ Correct Execution</th>
+  <th>⚠️ Mistake Case</th>
 </tr>
 <tr>
-<td align="center">
-  <a href="https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo/resolve/main/Mistake_Detection/Task_10/mp4_480/User_1_H_10c_3_480.mp4" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/100/000000/play-button-circled--v1.png" width="60"/><br/>
-    Watch Correct Execution
-  </a>
-</td>
-<td align="center">
-  <a href="https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo/resolve/main/Mistake_Detection/Task_10/mp4_480/User_16_0611_10m_3_480.mp4" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/100/000000/play-button-circled--v1.png" width="60"/><br/>
-    Watch Mistake Execution
-  </a>
-</td>
+  <td align="center">
+    <a href="https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo/resolve/main/Mistake_Detection/Task_10/mp4_480/User_1_H_10c_3_480.mp4" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/100/000000/play-button-circled--v1.png" width="60"/><br/>
+      <strong>Watch Correct Execution</strong>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo/resolve/main/Mistake_Detection/Task_10/mp4_480/User_16_0611_10m_3_480.mp4" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/100/000000/play-button-circled--v1.png" width="60"/><br/>
+      <strong>Watch Mistake Execution</strong>
+    </a>
+  </td>
 </tr>
 </table>
 
