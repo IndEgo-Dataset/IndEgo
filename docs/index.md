@@ -45,14 +45,10 @@ IndEgo runs on an adaptable framework that leverages:
 
 ---
 
-## Demo
+## Demo Video
 
-> 🎥 Below is a demo of IndEgo in action (auto-play + loop):
-
-<video width="100%" autoplay loop muted playsinline>
-  <source src="https://drive.google.com/uc?export=preview&id=1x1TnZJpUdE2BDMW9H-jo3QZmdm-aGrZb" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+▶️ [Watch the IndEgo Demo](https://drive.google.com/file/d/1x1TnZJpUdE2BDMW9H-jo3QZmdm-aGrZb/view?usp=sharing)  
+_A 2-minute overview of the technology involved._
 
 ---
 
