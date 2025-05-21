@@ -1,8 +1,8 @@
-# IndEgo: Industrial Egocentric Assistant
+# IndEgo
 
-## Automation and Robotics | Augmenting Human Skills with AI!
+## AI Assistant for Industrial Automation and Robotics | Augmenting Human Skills with AI
 
-💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)
+**💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)**
 
 Welcome to the IndEgo, a privacy-preserving, open-source framework that learns from experts to support training, real-time guidance, process improvement, and collaboration.
 
@@ -83,9 +83,7 @@ We are currently looking for:
  - 💼**Investors** to discuss the commercialisationn potential.
 
 ---
-
-💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)
-
+**💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)**
 ---
 
 ## 🧪 Mistake Detection Challenge: Can You Spot the Error?
