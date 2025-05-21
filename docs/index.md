@@ -33,7 +33,7 @@ IndEgo runs on an adaptable framework that leverages:
 - **Robotics-aware logic** to align human guidance with automated systems  
 - **Smart glasses or mobile devices** for real-time, on-site use
 
-  ![tech_concept](https://github.com/user-attachments/assets/df3018c2-bae9-4924-85cf-05be217eff28)
+![tech_concept](https://github.com/user-attachments/assets/692c196c-c842-4467-9cf2-e78b0e005c27)
 
 ---
 
