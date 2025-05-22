@@ -95,7 +95,7 @@ IndEgo runs on an adaptable framework that leverages:
 - 🧠 Learns from expert demonstrations  
 - 📱 Works with smart glasses or mobile devices  
 - 🛠️ Customizable and extensible for various industrial domains  
-- 🔐 Privacy-preserving — no cloud upload required  
+- 🔐 Privacy-preserving — data is filtered at every stage
 - 🤖 Compatible with robotics workflows and task handoffs
 
 ---
