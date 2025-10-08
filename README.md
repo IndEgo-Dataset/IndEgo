@@ -41,6 +41,18 @@ This project also leverages the open-source AI ecosystem, including [🤗 Huggin
 
 We thank these communities for making research reproducible and accessible.
 
+
+If you use **IndEgo**, please cite our NeurIPS 2025 paper:
+
+```bibtex
+@inproceedings{Chavan2025IndEgo,
+  author    = {Vivek Chavan and Yasmina Imgrund and Tung Dao and Sanwantri Bai and Bosong Wang and Ze Lu and Oliver Heimann and J{\"o}rg Kr{\"u}ger},
+  title     = {IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track},
+  year      = {2025},
+  url       = {https://neurips.cc/virtual/2025/poster/121501}
+}
+
 ---
 
 ## 🛠️ Environment Setup
@@ -54,15 +66,3 @@ source $HOME/indego_env/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
----
-
-If you use **IndEgo**, please cite our NeurIPS 2025 paper:
-
-```bibtex
-@inproceedings{Chavan2025IndEgo,
-  author    = {Vivek Chavan and Yasmina Imgrund and Tung Dao and Sanwantri Bai and Bosong Wang and Ze Lu and Oliver Heimann and J{\"o}rg Kr{\"u}ger},
-  title     = {IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track},
-  year      = {2025},
-  url       = {https://neurips.cc/virtual/2025/poster/121501}
-}
