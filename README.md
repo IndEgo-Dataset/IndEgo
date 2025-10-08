@@ -28,6 +28,19 @@ Each Category includes:
 - SLAM data (missing for some sequences)
 
 ---
+
+## 🛠️ Environment Setup
+
+### Create and install from `requirements.txt`
+```bash
+# Create a new virtual environment
+python3 -m venv $HOME/indego_env
+source $HOME/indego_env/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+---
 ## Acknowledgements
 
 This repository builds upon and integrates components from several open-source projects and pretrained models. We gratefully acknowledge the contributions of the following repositories and their authors:
