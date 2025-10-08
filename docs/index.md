@@ -1,4 +1,4 @@
-Welcome to **IndEgo**, a **NeurIPS 2025 Datasets & Benchmarks Track** accepted dataset and open-source framework for **industrial egocentric vision** — designed to support **training, real-time guidance, process improvement, and collaboration**.
+Welcome to **IndEgo**, a **NeurIPS 2025 Datasets & Benchmarks Track** accepted dataset and open-source framework for **industrial egocentric vision**, designed to support **training, real-time guidance, process improvement, and collaboration**.
 
 🎓 **Paper:** [IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants (NeurIPS 2025)](https://neurips.cc/virtual/2025/poster/121501)  
 👉 [GitHub Repo](https://github.com/Vivek9Chavan/IndEgo)  
@@ -58,7 +58,7 @@ Welcome to **IndEgo**, a **NeurIPS 2025 Datasets & Benchmarks Track** accepted d
 
 **IndEgo** introduces a multimodal **egocentric + exocentric** video dataset capturing common industrial activities such as assembly/disassembly, inspection, repair, logistics, and woodworking.
 
-It includes **3,460 egocentric videos (~197h)** and **1,092 exocentric videos (~97h)** with synchronized **eye gaze**, **audio narration**, **hand pose**, **motion**, and **semi-dense point clouds**.
+It includes **3,460 egocentric videos (~197h)** and **1,092 exocentric videos (~97h)** with synchronised **eye gaze**, **audio narration**, **hand pose**, **motion**, and **semi-dense point clouds**.
 
 IndEgo enables research on:
 - **Procedural & collaborative task understanding**
