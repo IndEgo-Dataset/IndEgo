@@ -1,4 +1,13 @@
-# IndEgo
+Welcome to **IndEgo**, a **NeurIPS 2025 Datasets & Benchmarks Track** accepted dataset and open-source framework for **industrial egocentric vision** — designed to support **training, real-time guidance, process improvement, and collaboration**.
+
+🎓 **Paper:** [IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants (NeurIPS 2025)](https://neurips.cc/virtual/2025/poster/121501)  
+👉 [GitHub Repo](https://github.com/Vivek9Chavan/IndEgo)  
+🤗 [Hugging Face Dataset](https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo)  
+🚀 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qCZnFQNRjBuy3vBlkMy7sMTcYkTNOzgg?usp=sharing)
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/fcf2e236-768a-4348-9762-28f4fa62d405" alt="IndEgo Logo" width="500"/>
+</p>
 
 ---
 
@@ -42,19 +51,6 @@
   </div>
 
 </div>
-
----
-
-Welcome to **IndEgo**, a **NeurIPS 2025 Datasets & Benchmarks Track** accepted dataset and open-source framework for **industrial egocentric vision** — designed to support **training, real-time guidance, process improvement, and collaboration**.
-
-🎓 **Paper:** [IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants (NeurIPS 2025)](https://neurips.cc/virtual/2025/poster/121501)  
-👉 [GitHub Repo](https://github.com/Vivek9Chavan/IndEgo)  
-🤗 [Hugging Face Dataset](https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo)  
-🚀 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qCZnFQNRjBuy3vBlkMy7sMTcYkTNOzgg?usp=sharing)
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/fcf2e236-768a-4348-9762-28f4fa62d405" alt="IndEgo Logo" width="500"/>
-</p>
 
 ---
 
