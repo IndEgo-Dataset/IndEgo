@@ -108,7 +108,8 @@ The IndEgo dataset includes annotated **egocentric and exocentric** videos of re
 
 If you use **IndEgo**, please cite:
 
-'''bibtex
+```
+bibtex
 @inproceedings{Chavan2025IndEgo,
   author    = {Vivek Chavan and Yasmina Imgrund and Tung Dao and Sanwantri Bai and Bosong Wang and Ze Lu and Oliver Heimann and J{\"o}rg Kr{\"u}ger},
   title     = {IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants},
@@ -116,4 +117,3 @@ If you use **IndEgo**, please cite:
   year      = {2025},
   url       = {https://neurips.cc/virtual/2025/poster/121501}
 }
-'''
