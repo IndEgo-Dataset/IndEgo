@@ -53,16 +53,3 @@ If you use **IndEgo**, please cite our NeurIPS 2025 paper:
   url       = {https://neurips.cc/virtual/2025/poster/121501}
 }
 
----
-
-## 🛠️ Environment Setup
-
-### Create and install from `requirements.txt`
-```bash
-# Create a new virtual environment
-python3 -m venv $HOME/indego_env
-source $HOME/indego_env/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
