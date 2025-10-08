@@ -1,9 +1,5 @@
 # IndEgo
 
-## AI Assistant for Industrial Automation and Robotics | Augmenting Human Skills with AI
-
-**💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)**
-
 ---
 
 <h3>🎥 Industrial Scenarios</h3>
@@ -47,16 +43,14 @@
 
 </div>
 
-
 ---
 
-Welcome to the IndEgo, a privacy-preserving, open-source framework that learns from experts to support training, real-time guidance, process improvement, and collaboration.
+Welcome to **IndEgo**, a **NeurIPS 2025 Datasets & Benchmarks Track** accepted dataset and open-source framework for **industrial egocentric vision** — designed to support **training, real-time guidance, process improvement, and collaboration**.
 
-👉 [GitHub Repo](https://github.com/Vivek9Chavan/IndEgo)
-
-🤗 [Hugging Face: IndEgo_Demo](https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo)
-
-🤝 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qCZnFQNRjBuy3vBlkMy7sMTcYkTNOzgg?usp=sharing)
+🎓 **Paper:** [IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants (NeurIPS 2025)](https://neurips.cc/virtual/2025/poster/121501)  
+👉 [GitHub Repo](https://github.com/Vivek9Chavan/IndEgo)  
+🤗 [Hugging Face Dataset](https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo)  
+🚀 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qCZnFQNRjBuy3vBlkMy7sMTcYkTNOzgg?usp=sharing)
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/fcf2e236-768a-4348-9762-28f4fa62d405" alt="IndEgo Logo" width="500"/>
@@ -64,131 +58,65 @@ Welcome to the IndEgo, a privacy-preserving, open-source framework that learns f
 
 ---
 
-## About
+## 📘 About
 
-**IndEgo** combines Egocentric AI, Vision-Language Models, and Robotics-aware reasoning to understand human actions and provide real-time guidance. It is designed for use in industrial settings through smart glasses or mobile devices — enabling contextual assistance, task verification, and human-robot collaboration.
+**IndEgo** introduces a multimodal **egocentric + exocentric** video dataset capturing common industrial activities such as assembly/disassembly, inspection, repair, logistics, and woodworking.
 
-IndEgo supports use cases such as:
-- Industrial task training and onboarding  
-- Real-time guidance and error prevention  
-- Knowledge transfer from experts to new operators  
-- AI-augmented collaboration between workers and machines  
+It includes **3,460 egocentric videos (~197h)** and **1,092 exocentric videos (~97h)** with synchronized **eye gaze**, **audio narration**, **hand pose**, **motion**, and **semi-dense point clouds**.
 
-Built as a privacy-first, open-source project, IndEgo gives organisations full control over data, deployment, and customisation.
+IndEgo enables research on:
+- **Procedural & collaborative task understanding**
+- **Mistake detection** and **process deviation recognition**
+- **Reasoning-based Video Question Answering (VQA)**
 
 ---
 
-## Technology
+## ⚙️ Technology
 
-IndEgo runs on an adaptable framework that leverages:
-- **Egocentric computer vision** for task context understanding  
-- **Vision-language models (VLMs)** for multi-modal reasoning and interaction  
-- **Robotics-aware logic** to align human guidance with automated systems  
-- **Smart glasses or mobile devices** for real-time, on-site use
+IndEgo combines:
+- **Egocentric Computer Vision** for context-aware task understanding  
+- **Vision-Language Models (VLMs)** for multimodal reasoning  
+- **Smart Glasses Integration** for on-site, real-time assistance  
 
 ![tech_concept](https://github.com/user-attachments/assets/692c196c-c842-4467-9cf2-e78b0e005c27)
 
 ---
 
-## Features
-
-- 🧠 Learns from expert demonstrations  
-- 📱 Works with smart glasses or mobile devices  
-- 🛠️ Customizable and extensible for various industrial domains  
-- 🔐 Privacy-preserving — data is filtered at every stage
-- 🤖 Compatible with robotics workflows and task handoffs
-
----
-
-## Demo Video
-
+## 🎬 Demo Video
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ric5f6jH7AI?autoplay=1&loop=1&mute=1&playlist=ric5f6jH7AI" 
 title="IndEgo Demo Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
-## Try It – No Setup Required!
+## 🚀 Try It – No Setup Required
 
-👉 [Launch Colab Notebook](https://colab.research.google.com/drive/1mC-W5czouMFgICMktrffOU7sSjMBXENO?usp=sharing)  
-Run IndEgo's core logic directly in your browser using Google Colab — no install or setup needed.
-
----
-
-## Dataset
-
-🔗 [Open-source Dataset on Hugging Face](https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo)  
-The IndEgo demo dataset includes annotated egocentric videos from real-world industrial tasks, ready for VLM, task graph, and mistake detection research.
+[Launch Colab Notebook](https://colab.research.google.com/drive/1mC-W5czouMFgICMktrffOU7sSjMBXENO?usp=sharing)  
+Run IndEgo’s core logic directly in your browser with Google Colab — no installation needed.
 
 ---
 
-## Get Involved
+## 📊 Dataset
 
-We are currently looking for:
- - ⚙️**Industry partners** for pilot studies and collaboration.
- - 🎓**Research Institutes** for forming a Consortium.
- - 💼**Investors** to discuss the commercialisationn potential.
+🔗 [Open Dataset on Hugging Face](https://huggingface.co/datasets/vivek9chavan/IndEgo_Demo)
 
----
-**💬 Interested? Reach out at: [vivek.chavan@ipk.fraunhofer.de](mailto:vivek.chavan@ipk.fraunhofer.de)**
----
-
-## 🧪 Mistake Detection Challenge: Can You Spot the Error?
-
-In this example, two workers perform the same task: **Loading a trolley into a hatch**.  
-One performs it correctly — the other makes a mistake.
-
-### ✅ Expected Steps:
-1. Open hatch  
-2. Put on gloves  
-3. Load trolley securely  
-4. Close hatch  
-5. Check if loaded securely
+The IndEgo dataset includes annotated **egocentric and exocentric** videos of real-world industrial scenarios with:
+- Action & narration annotations  
+- Mistake labels and summaries  
+- Eye-gaze and 3D mapping data  
+- Benchmarks for procedural reasoning and collaborative task understanding  
 
 ---
 
-### 🎥 Watch the Comparison:
+## 🧩 Citation
 
+If you use **IndEgo**, please cite:
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <th style="text-align: center;">👁️ Case 1 </th>
-    <th style="text-align: center;">👁️ Case 2 </th>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <iframe width="100%" height="300" 
-        src="https://www.youtube.com/embed/UWijZXr5TzE?autoplay=1&loop=1&mute=1&playlist=UWijZXr5TzE" 
-        title="User 1 View" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </td>
-    <td style="text-align: center;">
-      <iframe width="100%" height="300" 
-        src="https://www.youtube.com/embed/9AQSNnXeqYw?autoplay=1&loop=1&mute=1&playlist=9AQSNnXeqYw" 
-        title="User 15 View" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </td>
-  </tr>
-</table>
-
-**🤔 Can you identify which step was skipped or done incorrectly in the second video?**  
-This challenge illustrates how IndEgo can be used to analyze procedural tasks and detect deviations automatically using egocentric AI.
-
-**Results**
-
-### 🔍 Step-by-Step Mistake Detection Results
-
-| Step                      | ✅ Correct | ⚠️ Mistake | 📝 Mistake Description      |
-|---------------------------|-----------|------------|------------------------------|
-| Open hatch                | ✅         | ✅          | –                            |
-| Put on gloves             | ✅         | ✅          | –                            |
-| Load trolley securely     | ✅         | ✅          | –                            |
-| Close hatch               | ✅         | ❌          | Only closed one side         |
-| Check if loaded securely  | ✅         | ✅          | –                            |
-
-> ⚠️ Such mistakes may seem minor, but in industrial settings they can lead to inefficiencies, safety issues, or process failures.  
-> They are often subtle and context-dependent—making them hard to detect without egocentric perspective and modern deep learning methods.
-
----
-
-## License
-
-Apache 2.0 License – see the [GitHub repo](https://github.com/Vivek9Chavan/IndEgo) for details.
+```bibtex
+@inproceedings{Chavan2025IndEgo,
+  author    = {Vivek Chavan and Yasmina Imgrund and Tung Dao and Sanwantri Bai and Bosong Wang and Ze Lu and Oliver Heimann and J{\"o}rg Kr{\"u}ger},
+  title     = {IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track},
+  year      = {2025},
+  url       = {https://neurips.cc/virtual/2025/poster/121501}
+}
