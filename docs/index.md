@@ -85,7 +85,7 @@ title="IndEgo Demo Video" frameborder="0" allow="autoplay; encrypted-media" allo
 
 ---
 
-## 🚀 Try It – No Setup Required
+## 🚀 Try It: No Setup Required
 
 [Launch Colab Notebook](https://colab.research.google.com/drive/1mC-W5czouMFgICMktrffOU7sSjMBXENO?usp=sharing)  
 Run IndEgo’s core logic directly in your browser with Google Colab — no installation needed.
@@ -108,7 +108,7 @@ The IndEgo dataset includes annotated **egocentric and exocentric** videos of re
 
 If you use **IndEgo**, please cite:
 
-```bibtex
+'''bibtex
 @inproceedings{Chavan2025IndEgo,
   author    = {Vivek Chavan and Yasmina Imgrund and Tung Dao and Sanwantri Bai and Bosong Wang and Ze Lu and Oliver Heimann and J{\"o}rg Kr{\"u}ger},
   title     = {IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants},
@@ -116,3 +116,4 @@ If you use **IndEgo**, please cite:
   year      = {2025},
   url       = {https://neurips.cc/virtual/2025/poster/121501}
 }
+'''
